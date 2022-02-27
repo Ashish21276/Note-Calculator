@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Note-Calc/static/css/main.fac1ea21.css",
+    "main.js": "/Note-Calc/static/js/main.e2d57dd4.js",
+    "index.html": "/Note-Calc/index.html",
+    "main.fac1ea21.css.map": "/Note-Calc/static/css/main.fac1ea21.css.map",
+    "main.e2d57dd4.js.map": "/Note-Calc/static/js/main.e2d57dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac1ea21.css",
+    "static/js/main.e2d57dd4.js"
+  ]
+}
